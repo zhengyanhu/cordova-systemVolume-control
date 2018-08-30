@@ -2,6 +2,8 @@
 
 ## Description
 A Cordova plugin that lets you set device volume programmatically.
+
+## install
 cordova plugin add https://github.com/zhengyanhu/cordova-systemVolume-control
 
 ## Usage
