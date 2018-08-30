@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="com.coqsenpate.cordova.systemVolume" version="1.0.0">
+        id="cordova-systemVolume-control" version="1.0.0">
     <name>SystemVolume</name>
     <description>systemVolume Plugin for Cordova</description>
     <license>MIT</license>
     <keywords>cordova, change, system, volume</keywords>
-    <repo>https://github.com/coqsenpate/cordova-plugin-systemvolume</repo>
+    <repo>https://github.com/zhengyanhu/cordova-systemVolume-control</repo>
     <js-module src="www/SystemVolume.js" name="SystemVolume">
         <clobbers target="SystemVolume" />
     </js-module>
