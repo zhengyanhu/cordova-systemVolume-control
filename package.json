@@ -1,11 +1,12 @@
 {
   "name": "cordova-plugin-systemvolume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "## Description A Cordova plugin that lets you set device volume programmatically.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "repo": "https://github.com/zhengyanhu/cordova-systemVolume-control.git",
+  "platforms": [
+    "android",
+    "ios"
+  ],
   "author": "",
   "license": "ISC"
 }
